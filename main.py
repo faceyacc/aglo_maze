@@ -5,10 +5,10 @@ def main():
 
 
     cell_1 = Cell(window=win)
-    cell_1.draw(200, 200, 300, 300)
+    cell_1.draw(550, 550, 300, 300)
     
     cell_2 = Cell(window=win)
-    cell_2.draw(400, 200, 500, 300)
+    cell_2.draw(100, 100, 200, 200)
 
     cell_1.draw_move(cell_2)
 
