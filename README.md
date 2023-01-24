@@ -12,7 +12,7 @@ python3 main.py
 ```
 
 ## Demo
-![](waka.gif)
+![](maze_runner.gif)
 
 
 
